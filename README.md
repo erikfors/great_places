@@ -1,16 +1,25 @@
-# great_places_app
+# Great Places
 
-A new Flutter project.
+An app where you can save picture of places that you have visited.
 
-## Getting Started
+## Info
 
-This project is a starting point for a Flutter application.
+This project is build with flutter...
 
-A few resources to get you started if this is your first Flutter project:
+In this project you are able to take a picture and add a place on google maps where the picture was taken.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- You can see all the places you have created.
+- You can select all places and see a detail view of the place.
+- You can view places created on a map.
+- You can create places
+- You can add title, picture, and google maps location
+- You can select your current location or a custom one on the map
+- you can save the places
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='app_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/). 
